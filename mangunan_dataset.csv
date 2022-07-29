@@ -1,3 +1,3 @@
-place_id, place_name, place_desc, category
-1, Desa Wisata Mangunan, "Lorem ipsum aja dulu, lainnya belakangan", ['1''2']
-2, Hutan Pinus Tralala, "Wes mboh", ['3']
+place_name, place_desc, category, latitude, longitude
+Desa Wisata Mangunan, "Lorem ipsum aja dulu, lainnya belakangan", ['1''2']
+Hutan Pinus Tralala, "Wes mboh", ['3']
